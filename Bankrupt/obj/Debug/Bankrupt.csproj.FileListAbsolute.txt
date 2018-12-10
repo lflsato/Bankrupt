@@ -1,0 +1,7 @@
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\bin\Debug\Bankrupt.exe.config
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\bin\Debug\Bankrupt.exe
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\bin\Debug\Bankrupt.pdb
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\obj\Debug\Bankrupt.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\obj\Debug\Bankrupt.exe
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\obj\Debug\Bankrupt.pdb
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\obj\Debug\Bankrupt.csprojResolveAssemblyReference.cache

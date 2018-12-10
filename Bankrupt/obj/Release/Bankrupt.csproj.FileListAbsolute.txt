@@ -1,0 +1,6 @@
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\bin\Release\Bankrupt.exe.config
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\bin\Release\Bankrupt.exe
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\bin\Release\Bankrupt.pdb
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\obj\Release\Bankrupt.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\obj\Release\Bankrupt.exe
+C:\Users\Luis\Documents\Visual Studio 2017\Projects\Bankrupt\Bankrupt\obj\Release\Bankrupt.pdb
